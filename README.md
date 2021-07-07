@@ -7,4 +7,4 @@ Writing a line about myself to test how a commit works.
 
 Now I am writing a lin about myself with a note about this commit. 
 
-additional commit
+how does this look
