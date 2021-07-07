@@ -8,3 +8,5 @@ Writing a line about myself to test how a commit works.
 Now I am writing a lin about myself with a note about this commit. 
 
 how does this look
+
+Adding a line from RStudio
